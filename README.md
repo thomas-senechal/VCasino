@@ -4,7 +4,7 @@ VCasino is a very simple game made to learn V.
 # The V Programming Language
 This game was written in V, a new language available at the following links.
 
-Official website : vlang.io
+Official website : https://vlang.io
 
 Official github : https://github.com/vlang/v
 
